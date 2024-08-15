@@ -46,20 +46,73 @@ I am a Infra/Network Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://www.jenkins.io/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://www.ansible.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;  
+  </a>
+
+  <a href="https://linux.org/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://ubuntu.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" alt="Yaml " width="40" height="40"/>&nbsp;
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://yaml.org/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" alt="Yaml " width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://groovy-lang.org/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/groovy/groovy-original.svg" title="groovy" alt="groovy" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://www.ssh.com/academy/ssh" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" title="SSH" alt="SSH" width="40" height="40"/> 
+  </a>
+
+  <a href="https://www.vim.org/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/> 
+  </a>
+
+
+  <a href="https://httpd.apache.org/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg"  title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://www.php.net" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://bitbucket.org/product" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;
+</a>
+
+  <a href="https://about.gitlab.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
+</a>
+
+
+  <a href="https://github.com/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</a>
+
 </div>
 
 
